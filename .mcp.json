@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "breken": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "https://breken.ai/assets/breken-0.1.0.tgz",
+        "mcp"
+      ]
+    }
+  }
+}
